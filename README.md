@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Rafael Teixeira
+# 👋 Hey, I'm Rafa
 
 **Tech Support Specialist** focused on APIs, SQL, Dev Tooling & SaaS platforms  
 - 📍 Florianópolis, Brazil  
