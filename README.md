@@ -23,7 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [`involves-stage-api-docs`](https://github.com/rafactx/involves-stage-api-reference) | Fully custom API docs system (OpenAPI + MD + VitePress) with multilingual support |
+| [`involves-stage-api-reference`](https://github.com/rafactx/involves-stage-api-reference) | Fully custom API docs system (OpenAPI + MD + VitePress) with multilingual support |
 | [`involves-mind`](https://github.com/rafactx/involves-mind) | AI-enhanced search for the Help Center (Algolia + MiniLM/OpenAI), with i18n and zero-backend |
 | [`faq-support-team`](https://github.com/rafactx/faq-support-team) | Internal FAQ restructured with Next.js + Once UI, i18n, Algolia and AI fallback search |
 
