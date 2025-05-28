@@ -23,7 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [`involves-stage-api-docs`](https://github.com/rafactx/involves-stage-api-docs) | Fully custom API docs system (OpenAPI + MDX + Once UI) with multilingual support |
+| [`involves-stage-api-docs`](https://github.com/rafactx/involves-stage-api-docs) | Fully custom API docs system (OpenAPI + VueUse Motion + MD + VitePress) with multilingual support |
 | [`involves-mind`](https://github.com/rafactx/involves-mind) | AI-enhanced search for the Help Center (Algolia + MiniLM/OpenAI), with i18n and zero-backend |
 | [`faq-support-team`](https://github.com/rafactx/faq-support-team) | Internal FAQ restructured with Next.js + Once UI, i18n, Algolia and AI fallback search |
 
@@ -82,5 +82,3 @@
 - 📧 rafael@nerdstack.dev
 
 ---
-
-> 📘 I build tools that work, docs that scale, and support that actually delivers.
