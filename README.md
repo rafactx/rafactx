@@ -3,7 +3,7 @@
 
 **Tech Support Specialist** focused on APIs, SQL, Dev Tooling & SaaS platforms  
 - 📍 Florianópolis, Brazil  
-- 🧠 Learning: JavaScript · TypeScript · Next.js · Node.js · Python · Swift 
+- 🧠 Currently learning JavaScript, TypeScript, Node.js, Python, and Swift
 - 🎯 Focus: Scalable support · Dev-friendly documentation · Business-aware debugging  
 - 🌍 Spoken Languages: ![🇧🇷 Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat) ![🇺🇸 English](https://img.shields.io/badge/English-B2+/C1-blue?style=flat)
 
