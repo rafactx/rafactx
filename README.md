@@ -34,9 +34,9 @@
 
 ```typescript
 const rafa = {
-  role: "Tech Support Specialist",
+  role: "Tech Support Engineer",
   company: "LATAM-focused SaaS",
-  dailyStack: ["APIs", "SQL", "DevTools", "Documentation"],
+  dailyStack: ["APIs", "SQL", "DevTools", "Documentation", "Troubleshooting"],
   currentlyLearning: ["TypeScript", "Node.js", "Python", "Swift"],
   
   expertise: {
@@ -171,38 +171,7 @@ const rafa = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafactx&theme=react" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-### 🧠 Learning
-```mermaid
-graph LR
-    A[TypeScript Deep Dive] --> B[Advanced Types]
-    A --> C[Design Patterns]
-    
-    D[Node.js Backend] --> E[Express/Fastify]
-    D --> F[Database Design]
-    
-    G[Python Automation] --> H[Scripts & Tools]
-    G --> I[Data Processing]
-```
-
-### 🔨 Building
-- **Developer Tools** - CLI utilities and productivity enhancers
-- **API Solutions** - RESTful and GraphQL implementations
-- **Documentation Systems** - Automated doc generation
-
-### 🌱 Growing
-- Contributing to Open Source projects
-- Technical writing and knowledge sharing
-- System design and architecture patterns
-
+  <img src="https://github-readme-streak-stats-ashy-nine.vercel.app/?user=rafactx&theme=react&hide_border=true" />
 </div>
 
 ---
