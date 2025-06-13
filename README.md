@@ -53,9 +53,9 @@ const rafa = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔗 API Documentation System</h3>
+      <h3 align="center">🔗 Involves Stage API Docs</h3>
       <div align="center">
-        <a href="https://github.com/rafactx/involves-stage-docs">
+        <a href="https://github.com/rafactx/api-docs-involves-stage">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafactx&repo=involves-stage-docs&theme=react&hide_border=true" />
         </a>
         <p><strong>Tech:</strong> Next.js 15 · Tailwind CSS · MDX · i18n</p>
