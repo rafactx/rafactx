@@ -182,18 +182,10 @@ const rafa = {
   
   <i>I'm always excited to collaborate on interesting projects or discuss tech solutions!</i>
   
-  <br />
-  
   <a href="https://linkedin.com/in/rafactxr">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <br />
-  <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=rafactx&style=flat-square&color=blue" alt="Profile views" />
-  
-</div>
 
 ---
 
