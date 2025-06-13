@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td align="center">📍 <b>Location</b><br/>Florianópolis, Brazil</td>
-      <td align="center">🎯 <b>Focus</b><br/>APIs & DevEx</td>
+      <td align="center">🎯 <b>Focus</b><br/>APIs & DX</td>
       <td align="center">🌐 <b>Languages</b><br/>🇧🇷 PT (Native) · 🇺🇸 EN (B2+)</td>
     </tr>
   </table>
