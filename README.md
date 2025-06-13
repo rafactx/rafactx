@@ -1,15 +1,19 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there, I'm Rafa!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there, I'm Rafa!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Tech+Support+Specialist+%7C+API+Enthusiast;Building+bridges+between+devs+%26+solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafactxr)
-  [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafactx.dev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael@nerdstack.dev)
-  
+  <a href="https://linkedin.com/in/rafactxr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rafactx.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:rafael@nerdstack.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br />
@@ -50,49 +54,64 @@ const rafa = {
 
 ## ✨ Featured Projects
 
+<div align="center">
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🔗 Involves Stage API Docs</h3>
-      <div align="center">
+      <p align="center">
         <a href="https://github.com/rafactx/api-docs-involves-stage">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafactx&repo=involves-stage-docs&theme=react&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project" />
         </a>
-        <p><strong>Tech:</strong> Next.js 15 · Tailwind CSS · MDX · i18n</p>
-        <p>Custom-built API docs with multilingual support and developer-first UX</p>
-      </div>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/MDX-000000?style=flat&logo=mdx&logoColor=white" alt="MDX" />
+      </p>
+      <p>Custom-built API documentation platform with multilingual support and developer-first UX</p>
     </td>
     <td width="50%">
       <h3 align="center">🧠 AI-Enhanced Search</h3>
-      <div align="center">
+      <p align="center">
         <a href="https://github.com/rafactx/involves-mind">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafactx&repo=involves-mind&theme=react&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project" />
         </a>
-        <p><strong>Tech:</strong> Algolia · MiniLM · OpenAI</p>
-        <p>Zero-backend AI search for Help Center with smart fallbacks</p>
-      </div>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Algolia-003DFF?style=flat&logo=algolia&logoColor=white" alt="Algolia" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/MiniLM-FF6B6B?style=flat" alt="MiniLM" />
+      </p>
+      <p>Zero-backend AI search for Help Center with smart fallbacks</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">📚 Internal Knowledge Base</h3>
-      <div align="center">
+      <p align="center">
         <a href="https://github.com/rafactx/faq-support-team">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafactx&repo=faq-support-team&theme=react&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project" />
         </a>
-        <p><strong>Tech:</strong> Next.js · Once UI · Algolia</p>
-        <p>Modern FAQ system with AI-powered search and i18n</p>
-      </div>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Once_UI-FF00FF?style=flat" alt="Once UI" />
+        <img src="https://img.shields.io/badge/Algolia-003DFF?style=flat&logo=algolia&logoColor=white" alt="Algolia" />
+      </p>
+      <p>Modern FAQ system with AI-powered search and i18n</p>
     </td>
     <td width="50%">
       <h3 align="center">🔜 More Coming Soon</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Building" width="100" height="100" />
-        <p>Always building something new!</p>
-      </div>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Building" width="80" height="80" />
+      </p>
+      <p align="center"><i>Always building something new!</i></p>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -101,53 +120,45 @@ const rafa = {
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br />
-<div align="center">
-  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+</p>
 </details>
 
 <details open>
 <summary><b>⚙️ Backend & Tools</b></summary>
 <br />
-<div align="center">
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 </details>
 
 <details open>
 <summary><b>🗄️ Databases</b></summary>
 <br />
-<div align="center">
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 </details>
 
 <details open>
 <summary><b>📊 Monitoring & Analytics</b></summary>
 <br />
-<div align="center">
-  
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Kibana" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 </details>
 
 ---
@@ -160,7 +171,7 @@ const rafa = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafactx&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafactx&theme=react" />
 </div>
 
 ---
@@ -168,22 +179,30 @@ const rafa = {
 ## 🎯 Current Focus
 
 <div align="center">
-  
-  ```mermaid
-  graph LR
-    A[🧠 Learning] --> B[TypeScript Deep Dive]
-    A --> C[Node.js Backend]
-    A --> D[Python Automation]
+
+### 🧠 Learning
+```mermaid
+graph LR
+    A[TypeScript Deep Dive] --> B[Advanced Types]
+    A --> C[Design Patterns]
     
-    E[🔨 Building] --> F[Developer Tools]
-    E --> G[API Solutions]
-    E --> H[Documentation Systems]
+    D[Node.js Backend] --> E[Express/Fastify]
+    D --> F[Database Design]
     
-    I[🌱 Growing] --> J[Open Source]
-    I --> K[Technical Writing]
-    I --> L[System Design]
-  ```
-  
+    G[Python Automation] --> H[Scripts & Tools]
+    G --> I[Data Processing]
+```
+
+### 🔨 Building
+- **Developer Tools** - CLI utilities and productivity enhancers
+- **API Solutions** - RESTful and GraphQL implementations
+- **Documentation Systems** - Automated doc generation
+
+### 🌱 Growing
+- Contributing to Open Source projects
+- Technical writing and knowledge sharing
+- System design and architecture patterns
+
 </div>
 
 ---
@@ -192,11 +211,18 @@ const rafa = {
 
 <div align="center">
   
-  I'm always excited to collaborate on interesting projects or discuss tech solutions!
+  <i>I'm always excited to collaborate on interesting projects or discuss tech solutions!</i>
+  
+  <br />
   
   <a href="https://linkedin.com/in/rafactxr">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
+  <br />
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=rafactx&style=flat-square&color=blue" alt="Profile views" />
   
 </div>
 
