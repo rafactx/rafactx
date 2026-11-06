@@ -7,17 +7,14 @@ const MINE = ['rafactx', 'usevendee', 'SalesBud'];
 const MAX_MERGED = 5;
 const MAX_OPEN = 2;
 const FILES = {
-  'README.md': {
-    locale: 'en-US',
-    open: 'open',
-    footer: "Pull requests to projects I don't own. Rebuilt daily by a GitHub Action in this repo.",
-  },
-  'README.pt-BR.md': {
-    locale: 'pt-BR',
-    open: 'aberto',
-    footer: 'Pull requests em projetos que não são meus. Atualizado todo dia por uma GitHub Action neste repositório.',
-  },
+  'README.md': { locale: 'en-US', open: 'open' },
+  'README.pt-BR.md': { locale: 'pt-BR', open: 'aberto' },
 };
+
+// Non-breaking spaces keep the last word of the title, the separator and
+// the date on one line, so a date never wraps on its own.
+const NBSP = '\u00a0';
+const glue = (text) => text.replace(/ /g, NBSP);
 
 async function search(state) {
   const q = ['is:pr', `author:${AUTHOR}`, state, ...MINE.map((o) => `-user:${o}`)].join(' ');
@@ -47,14 +44,17 @@ const repo = (pr) => pr.repository_url.split('/repos/')[1];
 const date = (iso, locale) =>
   new Date(iso).toLocaleDateString(locale, { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 
-function render(merged, open, { locale, open: openLabel, footer }) {
-  const item = (pr, when) => `- [${repo(pr)}#${pr.number}](${pr.html_url}) ${title(pr.title)} · ${when}`;
+function render(merged, open, { locale, open: openLabel }) {
+  const item = (pr, when) => {
+    const text = title(pr.title).replace(/ (?=\S+$)/, NBSP);
+    return `- [${repo(pr)}#${pr.number}](${pr.html_url}) ${text}${NBSP}·${NBSP}${glue(when)}`;
+  };
   const items = [
     ...merged.map((pr) => item(pr, date(pr.pull_request.merged_at, locale))),
     ...open.map((pr) => item(pr, openLabel)),
   ];
   if (!items.length) return '';
-  return ['<samp>upstream</samp>', '', ...items, '', footer, ''].join('\n');
+  return ['#### Upstream', '', ...items, ''].join('\n');
 }
 
 const merged = (await search('is:merged'))
