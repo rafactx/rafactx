@@ -48,13 +48,13 @@ const date = (iso, locale) =>
   new Date(iso).toLocaleDateString(locale, { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 
 function render(merged, open, { locale, open: openLabel, footer }) {
-  const item = (pr, when) => `- [${repo(pr)}#${pr.number}](${pr.html_url}) ${title(pr.title)} <sub>${when}</sub>`;
+  const item = (pr, when) => `- [${repo(pr)}#${pr.number}](${pr.html_url}) ${title(pr.title)} · ${when}`;
   const items = [
     ...merged.map((pr) => item(pr, date(pr.pull_request.merged_at, locale))),
     ...open.map((pr) => item(pr, openLabel)),
   ];
   if (!items.length) return '';
-  return ['<samp>upstream</samp>', '', ...items, '', `<sub>${footer}</sub>`, ''].join('\n');
+  return ['<samp>upstream</samp>', '', ...items, '', footer, ''].join('\n');
 }
 
 const merged = (await search('is:merged'))
