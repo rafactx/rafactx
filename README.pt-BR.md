@@ -25,7 +25,7 @@ Passei seis anos em suporte técnico aprendendo como o software quebra em produ�
 | Design system do 4gig | O design system do 4gig, um app para bandas e equipes de produção cuidarem de shows, equipe e dinheiro. Um `DESIGN.md` guarda os tokens e as regras e vira skill para agentes de código; o CI falha quando o CSS ou os tokens gerados se afastam dele. Shadcn sobre Base UI, claro e escuro. Repositório privado, print abaixo. |
 | [samo.band](https://samo.band) | Site da banda de hip-hop SAMO: 36 páginas em seis idiomas, Astro estático num Cloudflare Worker, com testes de acessibilidade, visuais e de orçamento de bytes antes de cada merge. |
 | [api-docs-starter](https://github.com/rafactx/api-docs-starter) | Starter de documentação de API com VitePress, Vue 3 e Scalar, em quatro idiomas. [Demo no ar](https://api-docs-starter.rafactx.workers.dev) |
-| [openapi-fixer-v2](https://github.com/rafactx/openapi-fixer-v2) | Pipeline em Python que enriquece, corrige e valida uma especificação OpenAPI gerada, com testes de ponta a ponta. |
+| [openapi-fixer](https://github.com/rafactx/openapi-fixer) | Pipeline em Python que enriquece, corrige e valida uma especificação OpenAPI gerada, com testes de ponta a ponta. |
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/4gig-dark.webp"><img src="assets/4gig-light.webp" alt="Tela inicial do 4gig feita com o design system: o próximo evento, a grana do mês, a agenda e a equipe do evento" width="49%"></picture>
